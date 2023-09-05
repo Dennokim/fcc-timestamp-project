@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+[user]
+	name = Replit user
+	email = <>
+[remote "origin"]
+	url = https://github.com/Dennokim/fcc-timestamp-microservice.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
